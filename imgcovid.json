@@ -1,0 +1,20 @@
+{
+    "qe": {
+        "001": {
+            "image": "http://travel.mthai.com/app/uploads/2015/06/iStock_000028640536_Small.jpg",
+            "type": "Asia"
+        },
+        "002": {
+            "image": "https://travel.catdumb.com/wp-content/uploads/2018/05/1-5.jpg",
+            "type": "Euro"
+        },
+        "003": {
+            "image": "http://evaairblog.evaair.com/wp-content/uploads/2017/03/shutterstock_5938.jpg",
+            "type": "America"
+        },
+        "004": {
+            "image": "https://www.scholarship.in.th/wp-content/uploads/2018/02/7-54.jpg",
+            "type": "Africa"
+        }
+    }
+}

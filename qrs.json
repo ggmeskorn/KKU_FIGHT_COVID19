@@ -1,0 +1,16 @@
+{
+    "qr": {
+        "001": {
+            "location": "หอสมุดกลาง มหาวิทยาลับขอนแก่น",
+            "icon": "book",
+            "timein": "Today . 03:53 am",
+            "timeout":"2020-09-22 03:02:42",
+            "Status": "In"
+        },
+        "002": {
+            "location": "KKUcomplex",
+            "icon": "food",
+            "timein": "Today . 03:53 am"
+        }
+    }
+}
